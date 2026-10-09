@@ -1,0 +1,5 @@
+Diana 15600
+Bob 12300
+Eve 9800
+Alice 8500
+Charlie 7200
